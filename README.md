@@ -69,8 +69,8 @@ Conceived and led a team of 4 in building a secure, private platform for DJs to 
 
 ## 📫 Let's Connect
 
-- 📧 Email: aliyahms@example.com *(update with your real email)*  
-- 💼 LinkedIn: [linkedin.com/in/aliyahms](https://linkedin.com/in/aliyahms)  
+- 📧 Email: aliyahms@umich.edu  
+- 💼 LinkedIn: [linkedin.com/in/aliyah-m-smith/](https://www.linkedin.com/in/aliyah-m-smith/)
 - 🌐 Portfolio: [aliyahms.dev](https://aliyahms.dev) *(update or remove if needed)*  
 - 🔎 Status: **Open to Work**
 
