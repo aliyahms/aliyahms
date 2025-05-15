@@ -1,4 +1,4 @@
-# 🎧 Aliyah M. | Full-Stack Engineer • Audio Technologist • Creative Developer
+# 🎧 Aliyah M. Smith| Full-Stack Engineer • Audio Technologist • Creative Developer
 
 > *Where software engineering meets sound design and imagination fuels innovation.*
 
