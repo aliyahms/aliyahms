@@ -1,51 +1,82 @@
-## Hi there 👋
+# 🎧 Aliyah M. | Full-Stack Engineer • Audio Technologist • Creative Developer
 
-<!--
-**aliyahms/aliyahms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *Where software engineering meets sound design and imagination fuels innovation.*
 
-Here are some ideas to get you started:
+Hi there! I'm **Aliyah**, a passionate software engineer and certified full-stack web developer with roots in **audio engineering** and a degree in **Music & Technology** from the University of Michigan. I thrive at the intersection of **creativity and code**, building experiences that are technically robust and sensorially rich.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-A recent graduate of the University of Michigan Engineering Nexus Full Stack Academy Bootcamp, I am certified in Immersive Software Engineering and Web Development. With a background in audio engineering and performing arts technology, I bring a creative and technical approach to problem-solving. I have genuine passion for technology, willingness to learn and grow. My experience as a creative producer has honed my ability to develop innovative ideas and execute projects with precision both independently and collaboratively. Enjoys writing clean, maintainable code and thrives in collaborative, team-oriented environments. Passionate about technology, music and user experience, I thrive at the intersection of creativity and engineering.
+---
 
-Currently Open to Work!
+## 🚀 What I Bring to the Table
 
-TECHNICAL SKILLS 
+- 🎓 Certified in **Immersive Software Engineering** (Michigan Engineering x Fullstack Academy)
+- 🎵 Background in **Audio Engineering** & **XR Development**, specializing in Unity and 3D spatial sound
+- 💡 Former **Creative Producer**, known for innovative problem-solving and project execution
+- 💻 Passion for writing **clean, maintainable code** and building intuitive user experiences
+- 🤝 Team player who thrives in **collaborative, agile environments**
 
-Languages: JavaScript (ES6+), SQL, JSX, HTML5, CSS, C#, C++
-Frameworks & Libraries: React, Redux, React Router, React Hooks, Express, Vue, Angular
-Backend & Middleware: Node.js, Express, Nodemon, Prisma, Multer, CORS, Morgan, JSON Web Token (JWT) Authorization
-Databases: PostgreSQL, Prisma ORM
-APIs: RESTful APIs, third-party API integration
-Testing & Debugging: Chrome Developer Tools, console-based testing, manual QA
-Deployment Platforms: Netlify (Frontend), Render (Backend)
-Version Control & Dev Tools: Git, GitHub, Command Line (CLI), Visual Studio Code
-UI/UX & Development: DOM manipulation, Graphical User Interface (GUI) design principles
-Game & XR Development: Unity, Unity XR Toolkit, C# scripting for gameplay systems and VR interaction
+---
 
-EDUCATION
+## 🛠️ Tech Stack
 
-The University of Michigan
-Michigan Engineering &  Powered by Fullstack Academy			                                November/2024
-Software Engineering Immersive Program  Certificate
-Full-time program covered front-end and back-end web development, full-stack architecture, and the practical use of generative AI tools. The program emphasizes hands-on learning, pair programming, and industry-ready skills to prepare graduates for roles such as Software Engineer, Web Developer, and Backend Developer.
+**Languages:**  
+JavaScript (ES6+), C#, C++, SQL, HTML5, CSS, JSX  
 
-The University of Michigan - Ann Arbor
-School of Music, Theater & Dance									                                                May/2023 
-Bachelor of Music in Music and Technology
+**Frameworks & Libraries:**  
+React, Redux, Vue, Angular, React Router, React Hooks  
 
-University High School Academy | Southfield, MI		                                                              
-Valedictorian - Summa Cum Laude 		
-Detroit, Michigan USA
-Eastern Time Zone
+**Backend & Middleware:**  
+Node.js, Express, Prisma, JSON Web Tokens, CORS, Multer  
+
+**Databases:**  
+PostgreSQL, Prisma ORM  
+
+**Dev Tools:**  
+Git, GitHub, CLI, VS Code, Chrome DevTools  
+
+**Deployment:**  
+Render (Backend), Netlify (Frontend)  
+
+**APIs:**  
+RESTful APIs, third-party API integration  
+
+**Game & XR Dev:**  
+Unity, Unity XR Toolkit, C# scripting  
+
+**UX/UI:**  
+DOM manipulation, GUI principles, manual QA, real-time debugging  
+
+---
+
+## 🎮 Projects That Push Boundaries
+
+🕶️ **VR Music Experience – *“Interactive Lauryn Hill Set”***  
+Created and led the development of a spatial audio-based VR experience where players can explore a virtual set and interact with individual instruments—each increasing in volume and immersion as you move closer.
+
+🎧 **Decentralized DJ Audio Library**  
+Conceived and led a team of 4 in building a secure, private platform for DJs to manage and edit their tracks (BPM, tone, etc.)—applying backend architecture, version control, and dynamic audio integration.
+
+<!-- Add your real project links if available -->
+
+---
+
+## 🌱 Currently...
+
+- Expanding backend skills with **GraphQL** and **Docker**
+- Exploring **generative AI** tools and creative coding platforms
+- Seeking opportunities to **collaborate on meaningful, music-driven tech**
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: aliyahms@example.com *(update with your real email)*  
+- 💼 LinkedIn: [linkedin.com/in/aliyahms](https://linkedin.com/in/aliyahms)  
+- 🌐 Portfolio: [aliyahms.dev](https://aliyahms.dev) *(update or remove if needed)*  
+- 🔎 Status: **Open to Work**
+
+---
+
+> “Code is just another instrument—I compose with logic the same way I do with sound.” 🎼
 
 aliyahms@umich.edu
 
