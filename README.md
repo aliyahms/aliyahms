@@ -8,7 +8,7 @@ Hi there! I'm **Aliyah**, a passionate software engineer and certified full-stac
 
 ## 🚀 What I Bring to the Table
 
-- 🎓 Certified in **Immersive Software Engineering** (Michigan Engineering x Fullstack Academy)
+- 🎓 Certified in **Immersive Software Engineering** (University of Michigan Engineering x Fullstack Academy)
 - 🎵 Background in **Audio Engineering** & **XR Development**, specializing in Unity and 3D spatial sound
 - 💡 Former **Creative Producer**, known for innovative problem-solving and project execution
 - 💻 Passion for writing **clean, maintainable code** and building intuitive user experiences
